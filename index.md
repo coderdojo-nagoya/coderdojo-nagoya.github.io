@@ -25,7 +25,8 @@ events
 related links
 ----------------
 
-[Hacker Space Nagoya](http://hackerspace-nagoya.squarespace.com/)
+* [CoderDojo Japan](http://coderdojo.jp)
+* [Hacker Space Nagoya](http://hackerspace-nagoya.squarespace.com/)
 
 contact
 ---------
