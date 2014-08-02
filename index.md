@@ -19,7 +19,7 @@ CoderDojo 名古屋は2014年8月から、1カ月に1回程度の開催を予定
 events
 --------
 
-* 2014-08-10(土) 14:00-15:00 Hacker Space Nagoya / 「押して！押して！バスのボタン」又は「びっくりスイッチ」
+* [2014-08-10(土) 14:00-15:00 Hacker Space Nagoya / 「押して！押して！バスのボタン」又は「びっくりスイッチ」](http://coderdojo-nagoya.doorkeeper.jp/events/13936)
 * 2014-08-30(土) 10:00-17:00 『愛知ワークショップギャザリング』出展
 
 related links
