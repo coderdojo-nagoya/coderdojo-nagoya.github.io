@@ -20,7 +20,7 @@ events
 --------
 
 * [2014-08-10(日) 14:00-15:00 Hacker Space Nagoya / 「押して！押して！バスのボタン」又は「びっくりスイッチ」](http://coderdojo-nagoya.doorkeeper.jp/events/13936)
-* 2014-08-30(土) 10:00-17:00 『愛知ワークショップギャザリング』出展
+* [2014-08-30(土) 10:00-17:00 『愛知ワークショップギャザリング』出展](http://web.sugiyama-u.ac.jp/~kamei/gathering/index.html)
 
 related links
 ----------------
