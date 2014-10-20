@@ -19,7 +19,7 @@ CoderDojo 名古屋は、名古屋で小学生以上の子ども達にプログ�
 upcoming
 -------------------
 
-* [2014-10-19(日) 14:00-15:00 第二回 / 於:Hacker Space Nagoya](http://coderdojo-nagoya.doorkeeper.jp/events/15748)
+※11月の予定は決まり次第お知らせします。
 
 history
 --------
@@ -27,6 +27,7 @@ history
 * 2014-08-10(土) 14:00-15:00 第一回 *台風のため中止*
 * [2014-08-30(土) 10:00-17:00 『愛知ワークショップギャザリング』出展](http://web.sugiyama-u.ac.jp/~kamei/gathering/index.html)
 * [2014-09-20(土) 14:00-15:00 第一回 / 於:Hacker Space Nagoya](http://coderdojo-nagoya.doorkeeper.jp/events/15003)
+* [2014-10-19(日) 14:00-15:00 第二回 / 於:Hacker Space Nagoya](http://coderdojo-nagoya.doorkeeper.jp/events/15748)
 
 related links
 ----------------
