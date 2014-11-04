@@ -21,6 +21,8 @@ upcoming
 
 ※11月の予定は決まり次第お知らせします。
 
+2014/12/14(日) 14:00-15:00 第三回or第四回 / 於:Hacker Space Nagoya
+
 history
 --------
 
