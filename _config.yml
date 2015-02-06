@@ -1,19 +1,19 @@
 # Jekyll configuration
 
-name: My blog
-description: A jekyll theme
+name: "CoderDojo Nagoya | Aichi Japan"
+description: "CoderDojo Nagoyaは、愛知県名古屋市を中心に、小学生以上の子どもを対象にプログラミングの楽しさを伝える集まりです。"
 
 # url is currently only used only for the RSS feed in feed.xml
-url: http://scotte.github.io
+url: http://coderdojo-nagoya.github.io
 
 # baseurl will often be '', but for a project page on gh-pages, it needs to
 # be the project name.
 # *** IMPORTANT: If your local "jekyll serve" throws errors change this to '' or
 #     run it like so: jekyll serve --baseurl=''
-baseurl: /jekyll-clean
+baseurl: /
 
 # This can be '' to hide the Github nav button
-github: 'scotte/jekyll-clean'
+github: ''
 
 # Set this to your UA-# value, or '' to disable the block completely
 gaaccount: ''
@@ -22,7 +22,7 @@ gaaccount: ''
 # setting below must also be true. Individual posts can override 'comments' to
 # disable on a post-by-post basis
 disqus: ''
-comments: true
+comments: false
 
 permalink: /:year/:month/:title
 paginate: 3
