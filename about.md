@@ -15,3 +15,8 @@ layout: default
 愛知県名古屋市を中心にして活動しているCoderDojoです。
 [Hacker Space Nagoya](http://hackerspace-nagoya.squarespace.com/) にて1〜2か月に1回開催するほか、
 [愛知ワークショップギャザリング](http://web.sugiyama-u.ac.jp/~kamei/gathering/) 等でも臨時イベントを行う予定です。
+
+
+> Champion: Hiromi Hishida
+
+> 連絡先: coderdojo.nagoya※gmail.com（※を@に変えてください）
