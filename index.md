@@ -6,7 +6,7 @@ title: CoderDojo 名古屋
 
 ### 次のイベント
 
-* [2015-02-07(土) 14:00-15:00 第四回 / 於:Hacker Space Nagoya](http://coderdojo-nagoya.doorkeeper.jp/events/19666)
+*日程が決まりしだいお知らせします。*
 
 
 ### お知らせ
