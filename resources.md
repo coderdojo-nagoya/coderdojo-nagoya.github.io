@@ -29,7 +29,15 @@ title: プログラミング学習リソース
 
 ## プログラミング
 
-### チュートリアル
+### CoderDojo NagoyaのSushi
+
+``Sushi`` は、CoderDojoで利用するプログラミング学習用の課題カードです。  
+Scratchを学ぶ時に使うScratchカードのプログラム言語版と考えてください。  
+CoderDojo Nagoyaでは現在、オリジナルのSushiを作成中です。公開までしばらくお待ち下さい。
+
+*準備中*
+
+### その他のチュートリアル
 
 * [kidsruby](http://kidsruby.com/)
 Rubyの使い方を一歩ずつ学ぶ専用ソフト。サイトは英語ですが、専用ソフトは日本語があります。
