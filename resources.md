@@ -46,6 +46,8 @@ Pythonによる本格的なゲームプログラミングを学ぶことがで�
 オンラインでは全て無料で読むことができます。
 * [(書籍)たのしいプログラミング Pythonではじめよう!](http://www.amazon.co.jp/dp/4274069443/)
 Pythonの初歩からゲームプログラミングまでやさしく解説された本です。CoderDojo Nagoyaで一冊持っています。
+* [言語処理100本ノック](http://www.cl.ecei.tohoku.ac.jp/nlp100/#)
+主にPythonを使って言語処理・統計・機械学習などを段階的に学ぶことができる課題集です。
 * [(英語コンテンツ)My First Website](http://kata.coderdojo.com/wiki/My_First_Website)
 アイルランドのBrayで行なわれているCoderDojo Brayが作成したHTML/CSSを学ぶための学習カード(Sushi)。
 * [enchant.js チュートリアル](http://enchantjs.com/ja/tutorial/lets-start-enchant-js/)
