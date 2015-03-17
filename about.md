@@ -8,6 +8,7 @@ layout: default
 アイルランドで始まり、現在世界中に広まっています。
 
 運営や講師（メンターと呼びます）は全てボランティアで行われ、子どもの参加費は無料です。
+Dojoは [CoderDojo憲章](https://dl.dropboxusercontent.com/u/2819285/CoderDojo_Charter_JP.html) に基づいて運営されています。
 
 
 # CoderDojo Nagoya について
