@@ -1,5 +1,6 @@
 ---
 layout: default
+title: CoderDojoについて、CoderDojo Nagoyaについて
 ---
 
 # CoderDojo とは？
@@ -11,10 +12,10 @@ layout: default
 Dojoは [CoderDojo憲章](https://dl.dropboxusercontent.com/u/2819285/CoderDojo_Charter_JP.html) に基づいて運営されています。
 
 
-# CoderDojo Nagoya について
+## CoderDojo Nagoya について
 
 愛知県名古屋市を中心にして活動しているCoderDojoです。
-[Hacker Space Nagoya](http://hackerspace-nagoya.squarespace.com/) にて1〜2か月に1回開催するほか、
+[HackerSpace Nagoya](http://hackerspace-nagoya.squarespace.com/) ・ [いーぶる名古屋](https://e-able-nagoya.jp/) などを会場として1〜2か月に1回開催するほか、
 [愛知ワークショップギャザリング](http://web.sugiyama-u.ac.jp/~kamei/gathering/) 等でも臨時イベントを行う予定です。
 
 
