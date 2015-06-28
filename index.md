@@ -6,7 +6,7 @@ title: CoderDojo 名古屋
 
 ### 次のイベント
 
-- [2015-06-28(日) 第7回 / 於：いーぶる名古屋第四研修室](https://coderdojo-nagoya.doorkeeper.jp/events/26824)
+日時未定。決まり次第お知らせします。
 
 
 ### お知らせ
