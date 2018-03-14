@@ -3,5 +3,5 @@ layout: default
 title: CoderDojo 名古屋
 ---
 
-当面の間、最新情報はブログにてお知らせします。
-http://coderdojo-nagoya.hateblo.jp
+最新情報はブログにてお知らせします。<br>
+[http://coderdojo-nagoya.hateblo.jp](http://coderdojo-nagoya.hateblo.jp)
